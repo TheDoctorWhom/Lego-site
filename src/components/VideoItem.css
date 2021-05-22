@@ -1,7 +1,10 @@
 .video-item{
-  /*display: flex !important;
+  display: flex !important;
   align-items: center !important;
-  curser: pointer;*/
+  curser: pointer;
+}
+.ui.segment:first-child{
+  margin-top: 1rem;
 }
 
 img {

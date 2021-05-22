@@ -5,7 +5,7 @@
     const renderedList = videos.map((video) => {
       return <VideoItem  key={video.NUMBER} onVideoSelect={onVideoSelect} video= {video}/>;
     });
-    return <div className="ui relaxed divided list">{ renderedList }</div>
+    return <div className="ui padded five column grid">{ renderedList }</div>
   };
 
 export default VideoList;
