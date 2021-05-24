@@ -1,7 +1,7 @@
 import React, { useState }from 'react';
 
 const SearchBar = ({ onFormSubmit }) => {
-  const [term, setTerm] = useState('New York');
+  const [term, setTerm] = useState('');
   const [selectedOption, setSelectedOption] = useState('netflix');
   const [selectedType, setSelectedType] = useState('series');
   const [selectedLanguage, setSelectedLanguage] = useState('en');
