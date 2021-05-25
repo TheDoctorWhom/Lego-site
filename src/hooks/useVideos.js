@@ -8,16 +8,35 @@ const useVideos = (defaultSearchTerm) => {
     search(defaultSearchTerm);
   }, [defaultSearchTerm]);
 
-const search = async (term, service, series, language) => {
+const search = async (term, searchOption) => {
   const response = await youtube.get('',{
     }); // end of response
-      const reducedResponse = {};
+      // const reducedResponse = {};
 
     var x;
-    for (x in response.data.CATALOG.LEGO){
-      if(!response.data.CATALOG.LEGO[x].TITLE.toLowerCase().includes(term.toLowerCase())){
-        // console.log(response.data.CATALOG.LEGO[x]);
-        delete response.data.CATALOG.LEGO[x];
+
+    if(searchOption === "TITLE"){
+      for (x in response.data.CATALOG.LEGO){
+        if(!response.data.CATALOG.LEGO[x].TITLE.toLowerCase().includes(term.toLowerCase())){
+          // console.log(response.data.CATALOG.LEGO[x]);
+          delete response.data.CATALOG.LEGO[x];
+        }
+      }
+    }
+    if(searchOption === "NUMBER" ){
+      for (x in response.data.CATALOG.LEGO){
+        if(!response.data.CATALOG.LEGO[x].NUMBER.toLowerCase().includes(term.toLowerCase())){
+          // console.log(response.data.CATALOG.LEGO[x]);
+          delete response.data.CATALOG.LEGO[x];
+        }
+      }
+    }
+    if(searchOption === "THEME" ){
+      for (x in response.data.CATALOG.LEGO){
+        if(!response.data.CATALOG.LEGO[x].THEME.toLowerCase().includes(term.toLowerCase())){
+          // console.log(response.data.CATALOG.LEGO[x]);
+          delete response.data.CATALOG.LEGO[x];
+        }
       }
     }
     setVideos(response.data.CATALOG.LEGO);

@@ -2,14 +2,12 @@ import React, { useState }from 'react';
 
 const SearchBar = ({ onFormSubmit }) => {
   const [term, setTerm] = useState('');
-  const [selectedOption, setSelectedOption] = useState('netflix');
-  const [selectedType, setSelectedType] = useState('series');
-  const [selectedLanguage, setSelectedLanguage] = useState('en');
+  const [selectedOption, setSelectedOption] = useState('TITLE');
 
   const onSubmit = (event) => {
     event.preventDefault();
 
-    onFormSubmit(term, selectedOption, selectedType, selectedLanguage);
+    onFormSubmit(term, selectedOption);
   };
 
   const onValueChange = ( option ) =>{
@@ -21,15 +19,49 @@ const SearchBar = ({ onFormSubmit }) => {
       <div className="search-bar ui segment">
         <form onSubmit={onSubmit} className="ui form">
           <div className="field">
-            <label>Search</label>
+            <label>Search for Lego Set</label>
             <input
               type="text"
               value={term}
               onChange={(event) => setTerm(event.target.value)}
             />
           </div>
-
-        <button className="btn btn-default" type="submit">
+          <div className="radiobuttongroup ui grid"> {/*start of radio buttons Option*/}
+            <div className="radio three wide column">
+            <label>
+              <input
+                type="radio"
+                value="TITLE"
+                checked={selectedOption === "TITLE"}
+                onChange={(event) => setSelectedOption(event.target.value)}
+              />
+              &nbsp;Title
+            </label>
+          </div>
+          <div className="radio three wide column">
+            <label>
+              <input
+                type="radio"
+                value="NUMBER"
+                checked={selectedOption === "NUMBER"}
+                onChange={(event) => setSelectedOption(event.target.value)}
+              />
+              &nbsp;Number
+            </label>
+          </div>
+          <div className="radio three wide column">
+            <label>
+              <input
+                type="radio"
+                value="THEME"
+                checked={selectedOption === "THEME"}
+                onChange={(event) => setSelectedOption(event.target.value)}
+              />
+              &nbsp;Theme
+            </label>
+          </div>
+        </div> {/*end of options*/}
+        <button className="btn btn-default column" type="submit">
           Submit
         </button>
         </form>
