@@ -9,7 +9,7 @@ const VideoItem = ({ video, onVideoSelect, term }) => {
         <h4 className="ui header">{video.TITLE}</h4>
         <p>{video.NUMBER}</p>
         <div className="ui image">
-          <img src={`https://img.bricklink.com/ItemImage/SN/0/${video.NUMBER}-1.png`}/>
+          <img src={`https://img.bricklink.com/ItemImage/SN/0/${video.NUMBER}-1.png`} alt=''/>
         </div>
       </div>
 

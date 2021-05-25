@@ -10,9 +10,9 @@ const SearchBar = ({ onFormSubmit }) => {
     onFormSubmit(term, selectedOption);
   };
 
-  const onValueChange = ( option ) =>{
-    setSelectedOption(option);
-  };
+  // const onValueChange = ( option ) =>{
+  //   setSelectedOption(option);
+  // };
 
 
   return (
