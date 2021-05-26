@@ -830,6 +830,11 @@
             "TITLE": "The Sith",
             "THEME": "starwars art",
             "NUMBER": "31200"
+         },
+         {
+            "TITLE": "Imperial Probe Droid",
+            "THEME": "starwars",
+            "NUMBER": "75306"
          }
       ]
    }
