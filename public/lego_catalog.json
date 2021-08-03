@@ -881,7 +881,22 @@
             "TITLE": "Gru, Straut, and Otto",
             "THEME": "brickheadz",
             "NUMBER": "40420"
-        }
+        },
+        {
+            "TITLE": "Seinfeld",
+            "THEME": "ideas",
+            "NUMBER": "21328"
+        },
+        {
+            "TITLE": "NASA Apollo 11 Lunar Lander",
+            "THEME": "creator",
+            "NUMBER": "10266"
+        },
+        {
+            "TITLE": "Batman™ Classic TV Series Batmobile™",
+            "THEME": "batman",
+            "NUMBER": "76188"
+        },
       ]
     }
 }
