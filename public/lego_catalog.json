@@ -1091,6 +1091,34 @@
             "NUMBER": "40481",
             "BUILT": false,
             "PIECES": 219
+        },
+        {
+            "TITLE": "Bird of Paradise",
+            "THEME": "creator",
+            "NUMBER": "10289",
+            "BUILT": true,
+            "PIECES": 1173
+        },
+        {
+            "TITLE": "Ginger Tabby",
+            "THEME": "brickheadz",
+            "NUMBER": "40480",
+            "BUILT": false,
+            "PIECES": 269
+        },
+        {
+            "TITLE": "La Catrina",
+            "THEME": "brickheadz",
+            "NUMBER": "40492",
+            "BUILT": false,
+            "PIECES": 141
+        },
+        {
+            "TITLE": "Wildlife Rescue ATV",
+            "THEME": "town",
+            "NUMBER": "60300",
+            "BUILT": false,
+            "PIECES": 74
         }
       ]
     }
