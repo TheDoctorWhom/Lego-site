@@ -1,32 +1,62 @@
-import React, { useState }from 'react';
+import React, { useState } from 'react';
+import './SearchBar.css';
+import Dropdown from './Dropdown.js';
+
+    const options = [
+{
+  label: 'Title',
+  value: 'TITLE'
+},
+{
+  label: 'Number',
+  value: 'NUMBER'
+},
+{
+  label: 'Theme',
+  value: 'THEME'
+}
+];
+
 
 const SearchBar = ({ onFormSubmit }) => {
-  const [term, setTerm] = useState('');
-  const [selectedOption, setSelectedOption] = useState('TITLE');
 
-  const onSubmit = (event) => {
-    event.preventDefault();
+    const [term, setTerm] = useState('');
+    const [selectedOption, setSelectedOption] = useState(options[0]);
 
-    onFormSubmit(term, selectedOption);
-  };
+    const onSubmit = (event) => {
+        event.preventDefault();
 
-  // const onValueChange = ( option ) =>{
-  //   setSelectedOption(option);
-  // };
+        onFormSubmit(term, selectedOption.value);
+        // console.log(selectedOption);
+    };
 
+    // const onValueChange = ( option ) =>{
+    //   setSelectedOption(option);
+    // };
 
-  return (
-      <div className="search-bar ui segment">
+    return (
+
+        <div className="search-bar ui segment">
         <form onSubmit={onSubmit} className="ui form">
-          <div className="field">
-            <label>Search for Lego Set</label>
-            <input
-              type="text"
-              value={term}
-              onChange={(event) => setTerm(event.target.value)}
-            />
-          </div>
-          <div className="radiobuttongroup ui grid"> {/*start of radio buttons Option*/}
+        <label>Search for Lego Set</label>
+          <div className="two fields">
+            <Dropdown
+            className="ui field"
+            options={options}
+            selected={selectedOption}
+            onSelectedChange={setSelectedOption}
+          />
+            <div className="search-bar ui field">
+              <input
+                className='search-bar-text'
+                type="text"
+                value={term}
+                onChange={(event) => setTerm(event.target.value)}
+              />
+            </div>
+            <input className="btn btn-default ui submit-btn" value ='Submit' type="submit" />
+          {/*<label>Submit</label>*/}
+                    {/*<div className="radiobuttongroup ui grid">
             <div className="radio three wide column">
             <label>
               <input
@@ -60,10 +90,8 @@ const SearchBar = ({ onFormSubmit }) => {
               &nbsp;Theme
             </label>
           </div>
-        </div> {/*end of options*/}
-        <button className="btn btn-default column" type="submit">
-          Submit
-        </button>
+        </div> */}
+        </div>
         </form>
       </div>
     );

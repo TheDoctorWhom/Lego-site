@@ -1,0 +1,35 @@
+.submit-btn {
+ /* float: right;*/
+  height: 37px;
+  /*clear: fix;*/
+}
+.search-bar{
+  /*z-index: 1;*/
+  /*overflow: hidden;*/
+  /*padding-right: .5em;*/
+  /*width:50%;*/
+  /*float: center;*/
+
+}
+.search-bar-text{
+/*width: 10%;*/
+/*overflow: hidden;*/
+/*float: center;*/
+}
+.ui.form .field>.selection.dropdown {
+   margin-top: -4px;
+}
+
+.ui.selection.active.dropdown .menu {
+    /*border-color: #96c8da;
+    -webkit-box-shadow: 0 2px 3px 0 rgb(34 36 38 / 15%);
+    box-shadow: 0 2px 3px 0 rgb(34 36 38 / 15%);*/
+    /*overflow: scroll;*/
+    /*z-index: 9999;*/
+  /*overflow: visible !important;*/
+}
+.drop-down{
+  /*z-index: 9999;
+  overflow: visible !important;
+  clear: fix;*/
+}
