@@ -54,43 +54,7 @@ const SearchBar = ({ onFormSubmit }) => {
                 onChange={(event) => setTerm(event.target.value)}
               />
             </div>
-            <input className="btn btn-default ui submit-btn" value ='Submit' type="submit" />
-          {/*<label>Submit</label>*/}
-                    {/*<div className="radiobuttongroup ui grid">
-            <div className="radio three wide column">
-            <label>
-              <input
-                type="radio"
-                value="TITLE"
-                checked={selectedOption === "TITLE"}
-                onChange={(event) => setSelectedOption(event.target.value)}
-              />
-              &nbsp;Title
-            </label>
-          </div>
-          <div className="radio three wide column">
-            <label>
-              <input
-                type="radio"
-                value="NUMBER"
-                checked={selectedOption === "NUMBER"}
-                onChange={(event) => setSelectedOption(event.target.value)}
-              />
-              &nbsp;Number
-            </label>
-          </div>
-          <div className="radio three wide column">
-            <label>
-              <input
-                type="radio"
-                value="THEME"
-                checked={selectedOption === "THEME"}
-                onChange={(event) => setSelectedOption(event.target.value)}
-              />
-              &nbsp;Theme
-            </label>
-          </div>
-        </div> */}
+            <input className="btn btn-default ui submit-btn" value ='Search' type="submit" />
         </div>
         </form>
       </div>
