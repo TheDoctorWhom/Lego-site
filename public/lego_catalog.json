@@ -6,157 +6,183 @@
             "TITLE": "Fallingwater",
             "THEME": "architecture",
             "NUMBER": "21005",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 811
         },
         {
             "TITLE": "Lady Liberty",
             "THEME": "brickheadz",
             "NUMBER": "40367",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 153
         },
         {
             "TITLE": "Lucky Cat",
             "THEME": "brickheadz",
             "NUMBER": "40436",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 134
         },
         {
             "TITLE": "Luke Skywalkers Landspeeder",
             "THEME": "starwars",
             "NUMBER": "75271",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 135
         },
         {
             "TITLE": "Aquaman",
             "THEME": "brickheadz marvel",
             "NUMBER": "41600",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 135
         },
         {
             "TITLE": "Mighty Dinosaurs",
             "THEME": "creator",
             "NUMBER": "31058",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 174
         },
         {
             "TITLE": "Mia's Water Fun polybag",
-            "THEME": "friends",
+            "THEME": "friends polybag",
             "NUMBER": "30410",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 23
         },
         {
             "TITLE": "Mia’s Tree House",
             "THEME": "friends",
             "NUMBER": "41335",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 343
         },
         {
             "TITLE": "Emma’s Art Café (Cafe)",
             "THEME": "friends",
             "NUMBER": "41336",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 370
         },
         {
-            "TITLE": "Heartlake City Airplane Tour",
+            "TITLE": "Heartlake town Airplane Tour",
             "THEME": "friends",
             "NUMBER": "41343",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 319
         },
         {
             "TITLE": "Expecto Patronum",
             "THEME": "harrypotter",
             "NUMBER": "75945",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 103
         },
         {
             "TITLE": "Aragog's Lair x2",
             "THEME": "harrypotter",
             "NUMBER": "75950",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 149
         },
         {
             "TITLE": "Grindelwald's Escape",
             "THEME": "harrypotter",
             "NUMBER": "75951",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 124
         },
         {
             "TITLE": "Newbury Juice Bar",
             "THEME": "hiddenside promotional",
             "NUMBER": "40336",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 119
         },
         {
             "TITLE": "J.B.'s Ghost Lab",
             "THEME": "hiddenside",
             "NUMBER": "70418",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 162
         },
         {
             "TITLE": "Wrecked Shrimp Boat",
             "THEME": "hiddenside",
             "NUMBER": "70419",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 294
         },
         {
             "TITLE": "Graveyard Mystery",
             "THEME": "hiddenside",
             "NUMBER": "70420",
-            "BUILT": false
+            "BUILT": false,
+            "PIECES": 317
         },
         {
             "TITLE": "Welcome to the Hidden Side",
             "THEME": "hiddenside",
             "NUMBER": "70427",
-            "BUILT": false
+            "BUILT": false,
+            "PIECES": 157
         },
         {
             "TITLE": "Mr. Claus and Mrs. Claus",
             "THEME": "holiday brickheadz",
             "NUMBER": "40274",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 341
         },
         {
             "TITLE": "Reindeer, Elf and Elfie",
             "THEME": "holiday brickheadz",
             "NUMBER": "40353",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 281
         },
         {
             "TITLE": "Mini Gingerbread House",
             "THEME": "holiday creator promotional",
             "NUMBER": "40337",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 499
         },
         {
             "TITLE": "Flower Display",
             "THEME": "holiday",
             "NUMBER": "40187",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 100
         },
         {
             "TITLE": "Vampire and Bat",
             "THEME": "holiday",
             "NUMBER": "40203",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 150
         },
         {
-            "TITLE": "Advent Calendar 2019, City",
+            "TITLE": "Advent Calendar 2019, town",
             "THEME": "holiday",
             "NUMBER": "60235",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 150
         },
         {
             "TITLE": "Birthday Card",
             "THEME": "holiday",
             "NUMBER": "53906",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 10
         },
         {
             "TITLE": "Brick Tales Pop-Up Book",
             "THEME": "ideas",
             "NUMBER": "21315",
-            "BUILT": false
+            "BUILT": false,
+            "PIECES": 841
         },
         {
             "TITLE": "Dinosaurs Fossils",
@@ -291,7 +317,7 @@
             "BUILT": true
         },
         {
-            "TITLE": "City 2019 Minifigure Set",
+            "TITLE": "town 2019 Minifigure Set",
             "THEME": "town",
             "NUMBER": "40345",
             "BUILT": true
@@ -544,7 +570,7 @@
         },
         {
             "TITLE": "Death Star II Battle",
-            "THEME": "starwars Promtional",
+            "THEME": "starwars promotional",
             "NUMBER": "40407",
             "BUILT": true
         },
@@ -671,19 +697,19 @@
         },
         {
             "TITLE": "Desert Pokey",
-            "THEME": "supermario",
+            "THEME": "mario",
             "NUMBER": "71363",
             "BUILT": true
         },
         {
             "TITLE": "Whomp's Lava Trouble",
-            "THEME": "supermario",
+            "THEME": "mario",
             "NUMBER": "71364",
             "BUILT": true
         },
         {
             "TITLE": "Boomer Bill Barrage",
-            "THEME": "supermario",
+            "THEME": "mario",
             "NUMBER": "71366",
             "BUILT": false
         },
@@ -695,7 +721,7 @@
         },
         {
             "TITLE": "Adventures with Mario",
-            "THEME": "supermario",
+            "THEME": "mario",
             "NUMBER": "71360",
             "BUILT": true
         },
@@ -761,7 +787,7 @@
         },
         {
             "TITLE": "El Fuegos Stunt Cannon",
-            "THEME": "hiddensides",
+            "THEME": "hiddenside",
             "NUMBER": "30464",
             "BUILT": true
         },
@@ -785,7 +811,7 @@
         },
         {
             "TITLE": "Shrimp Shack Attack",
-            "THEME": "hiddensides",
+            "THEME": "hiddenside",
             "NUMBER": "70422",
             "BUILT": false
         },
@@ -875,7 +901,7 @@
         },
         {
             "TITLE": "Police Water Scooter",
-            "THEME": "city promotional",
+            "THEME": "town promotional",
             "NUMBER": "30567",
             "BUILT": true
         },
@@ -1014,7 +1040,7 @@
         },
         {
             "TITLE": "Everyone Is Awesome",
-            "THEME": "Lego",
+            "THEME": "bricks",
             "NUMBER": "40516",
             "BUILT": true
         },
@@ -1046,19 +1072,19 @@
             "TITLE": "Skater",
             "THEME": "polybag town",
             "NUMBER": "30568",
-            "BUILT": false
+            "BUILT": true
         },
         {
             "TITLE": "Belle Bottom, Bob, and Kevin",
-            "THEME": "brickheadz",
+            "THEME": "brickheadz minions",
             "NUMBER": "40421",
-            "BUILT": false
+            "BUILT": true
         },
         {
             "TITLE": "Gru, Straut, and Otto",
-            "THEME": "brickheadz",
+            "THEME": "brickheadz minions",
             "NUMBER": "40420",
-            "BUILT": false
+            "BUILT": true
         },
         {
             "TITLE": "Seinfeld",
@@ -1089,7 +1115,7 @@
             "TITLE": "Cockatiel",
             "THEME": "brickheadz",
             "NUMBER": "40481",
-            "BUILT": false,
+            "BUILT": true,
             "PIECES": 219
         },
         {
@@ -1103,22 +1129,36 @@
             "TITLE": "Ginger Tabby",
             "THEME": "brickheadz",
             "NUMBER": "40480",
-            "BUILT": false,
+            "BUILT": true,
             "PIECES": 269
         },
         {
             "TITLE": "La Catrina",
             "THEME": "brickheadz",
             "NUMBER": "40492",
-            "BUILT": false,
+            "BUILT": true,
             "PIECES": 141
         },
         {
             "TITLE": "Wildlife Rescue ATV",
             "THEME": "town",
             "NUMBER": "60300",
-            "BUILT": false,
+            "BUILT": true,
             "PIECES": 74
+        },
+        {
+            "TITLE": "Adventures with Luigi Starter Course",
+            "THEME": "mario",
+            "NUMBER": "71387",
+            "BUILT": false,
+            "PIECES": 280
+        },
+        {
+            "TITLE": "Fuzzy & Mushroom Platform",
+            "THEME": "mario polybag promotional",
+            "NUMBER": "30389",
+            "BUILT": false,
+            "PIECES": 39
         }
       ]
     }
