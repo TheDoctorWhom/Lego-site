@@ -6,7 +6,7 @@ import VideoList from './VideoList';
 // import VideoDetail from './VideoDetail';
 import useVideos from '../hooks/useVideos';
 import Chart from './Chart';
-import LoadingBar from './LoadingBar';
+// import LoadingBar from './LoadingBar';
 
 const App = () => {
 
