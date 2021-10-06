@@ -26,7 +26,6 @@ const data = {
         ],
         borderWidth: 1,
     },],
-
 };
 
 
@@ -54,8 +53,8 @@ const Chart = ({ videos }) => {
 
     return (
       <>
-        <div className='header'>
-      <h1 className='title'></h1>
+        <div className='chart header'>
+      <h1 className='title'>Lego Search Chart</h1>
     </div> <
         Doughnut data = { data }
         />

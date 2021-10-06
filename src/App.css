@@ -10,9 +10,7 @@ display: inline;
   pointer-events: none;
 }
 
-.submit-btn {
-  display: inline-block;
-}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

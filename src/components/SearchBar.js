@@ -2,19 +2,18 @@ import React, { useState } from 'react';
 import './SearchBar.css';
 import Dropdown from './Dropdown.js';
 
-    const options = [
-{
-  label: 'Title',
-  value: 'TITLE'
-},
-{
-  label: 'Number',
-  value: 'NUMBER'
-},
-{
-  label: 'Theme',
-  value: 'THEME'
-}
+const options = [{
+        label: 'Title',
+        value: 'TITLE'
+    },
+    {
+        label: 'Number',
+        value: 'NUMBER'
+    },
+    {
+        label: 'Theme',
+        value: 'THEME'
+    }
 ];
 
 
