@@ -1173,6 +1173,20 @@
             "NUMBER": "76393",
             "BUILT": false,
             "PIECES": 1673
+        },
+        {
+            "TITLE": "Nutcracker",
+            "THEME": "brickheadz",
+            "NUMBER": "40425",
+            "BUILT": false,
+            "PIECES": 180
+        },
+        {
+            "TITLE": "Mickey Mouse's Propeller Plane",
+            "THEME": "disney",
+            "NUMBER": "10772",
+            "BUILT": false,
+            "PIECES": 59
         }
       ]
     }
