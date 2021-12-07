@@ -1187,6 +1187,48 @@
             "NUMBER": "10772",
             "BUILT": false,
             "PIECES": 59
+        },
+        {
+            "TITLE": "Holiday Camper Van",
+            "THEME": "city",
+            "NUMBER": "60283",
+            "BUILT": false,
+            "PIECES": 190
+        },
+        {
+            "TITLE": "Birthday Clown polybag",
+            "THEME": "polybag creator",
+            "NUMBER": "30565",
+            "BUILT": false,
+            "PIECES": 59
+        },
+        {
+            "TITLE": "Build your own Snail polybag",
+            "THEME": "polybag",
+            "NUMBER": "30563",
+            "BUILT": false,
+            "PIECES": 36
+        },
+        {
+            "TITLE": "Santa Claus polybag",
+            "THEME": "polybag creator",
+            "NUMBER": "30580",
+            "BUILT": false,
+            "PIECES": 69
+        },
+        {
+            "TITLE": "Holiday tree polybag",
+            "THEME": "polybag creator",
+            "NUMBER": "30576",
+            "BUILT": false,
+            "PIECES": 70
+        },
+        {
+            "TITLE": "Diver polybag",
+            "THEME": "polybag city",
+            "NUMBER": "30370",
+            "BUILT": false,
+            "PIECES": 15
         }
       ]
     }
