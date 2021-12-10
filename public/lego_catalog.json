@@ -1229,6 +1229,20 @@
             "NUMBER": "30370",
             "BUILT": false,
             "PIECES": 15
+        },
+        {
+            "TITLE": "AT-AT™ vs. Tauntaun™ Microfighters",
+            "THEME": "starwars",
+            "NUMBER": "75298",
+            "BUILT": false,
+            "PIECES": 205
+        },
+        {
+            "TITLE": "Bro Thor’s New Asgard",
+            "THEME": "marvel",
+            "NUMBER": "76200",
+            "BUILT": false,
+            "PIECES": 265
         }
       ]
     }
