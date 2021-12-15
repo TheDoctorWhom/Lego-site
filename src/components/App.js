@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import SearchBar from './SearchBar';
 import VideoList from './VideoList';
-import Peicecount from './peicecount';
+import PeiceCount from './PeiceCount';
 // import VideoDetail from './VideoDetail';
 import useVideos from '../hooks/useVideos';
 import Chart from './Chart';
@@ -38,7 +38,7 @@ return (
   <div className="ui container">
     <h1>Lego Inventory</h1>
     <SearchBar onFormSubmit={search}/>
-    <Peicecount videos={videos}/>
+    <PeiceCount videos={videos}/>
     <button className="btn btn-default ui" onClick={handleToggle}>Chart</button>
     { isActive ? <Chart videos={videos} term={search}/> : null }
     <VideoList

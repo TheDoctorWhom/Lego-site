@@ -52,14 +52,16 @@ const Chart = ({ videos , term }) => {
     data.datasets[0].data=counts;
 
     return (
+        <div className='ui one wide column '>
         <div className='chart__container'>
-      <>
+            <>
         <div className='chart'>
       <h1 className='title'>Lego Search Chart</h1>
     </div> <
         Doughnut data = { data }
         />
         </>
+        </div>
         </div>
     )
 };
