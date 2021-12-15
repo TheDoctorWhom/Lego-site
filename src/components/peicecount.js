@@ -11,8 +11,8 @@ numberBuilt.forEach(x => x === 1 || x === 0 ? numberOfSets++ : null);
 
 const reducer = (previousValue, currentValue) => previousValue + currentValue;
 
-const numberOfPieces = ((videosPieces.length != [] && videosPieces.length !== 0) ? videosPieces.reduce(reducer): null);
-const percentBuilt = ((numberBuilt.length != [] && numberBuilt.length !== 0) ? ((numberBuilt.reduce(reducer)/numberOfSets) * 100).toFixed(2) : null);
+const numberOfPieces = ((videosPieces.length !== [] && videosPieces.length !== 0) ? videosPieces.reduce(reducer): null);
+const percentBuilt = ((numberBuilt.length !== [] && numberBuilt.length !== 0) ? ((numberBuilt.reduce(reducer)/numberOfSets) * 100).toFixed(2) : null);
 
 return (
   <div>
