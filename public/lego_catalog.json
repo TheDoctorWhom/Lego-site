@@ -762,7 +762,7 @@
             "TITLE": "Bride",
             "THEME": "brickheadz",
             "NUMBER": "40383",
-            "BUILT": false,
+            "BUILT": true,
             "PIECES": 306
         },
         {
@@ -916,7 +916,7 @@
             "TITLE": "Wedding Groom",
             "THEME": "brickheadz",
             "NUMBER": "40384",
-            "BUILT": false,
+            "BUILT": true,
             "PIECES": 255
         },
         {
@@ -1007,7 +1007,8 @@
             "TITLE": "Police Water Scooter",
             "THEME": "town promotional",
             "NUMBER": "30567",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 33
         },
         {
             "TITLE": "Thwomp Drop",
@@ -1104,7 +1105,8 @@
             "TITLE": "Budgie and Chick",
             "THEME": "brickheadz",
             "NUMBER": "40443",
-            "BUILT": true
+            "BUILT": true,
+            "PIECES": 261
         },
         {
             "TITLE": "Mclaren Elva",
@@ -1313,7 +1315,7 @@
             "TITLE": "Nutcracker",
             "THEME": "brickheadz",
             "NUMBER": "40425",
-            "BUILT": false,
+            "BUILT": true,
             "PIECES": 180
         },
         {

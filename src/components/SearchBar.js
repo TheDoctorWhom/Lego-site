@@ -26,7 +26,7 @@ const SearchBar = ({ onFormSubmit }) => {
         event.preventDefault();
 
         onFormSubmit(term, selectedOption.value);
-        // console.log(selectedOption);
+
     };
 
     // const onValueChange = ( option ) =>{

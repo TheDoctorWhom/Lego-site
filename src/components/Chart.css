@@ -1,5 +1,10 @@
+.chart__container{
+  width: 50 rem;
+  height:  40 rem;
+}
 .chart {
   width: 10px;
+  height: 10px;
 }
 .chart .title {
   display: none;

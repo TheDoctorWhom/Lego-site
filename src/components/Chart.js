@@ -30,7 +30,7 @@ const data = {
 
 
 
-const Chart = ({ videos }) => {
+const Chart = ({ videos , term }) => {
 
 
     //Make labels from themes of object
@@ -52,13 +52,15 @@ const Chart = ({ videos }) => {
     data.datasets[0].data=counts;
 
     return (
+        <div className='chart__container'>
       <>
-        <div className='chart header'>
+        <div className='chart'>
       <h1 className='title'>Lego Search Chart</h1>
     </div> <
         Doughnut data = { data }
         />
         </>
+        </div>
     )
 };
 
