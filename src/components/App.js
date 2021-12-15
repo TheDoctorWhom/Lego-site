@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import SearchBar from './SearchBar';
 import VideoList from './VideoList';
-import PeiceCount from './PeiceCount';
+import PeiceCount from './peicecount';
 // import VideoDetail from './VideoDetail';
 import useVideos from '../hooks/useVideos';
 import Chart from './Chart';
