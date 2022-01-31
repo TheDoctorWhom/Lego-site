@@ -1401,6 +1401,55 @@
             "NUMBER": "5891",
             "BUILT": false,
             "PIECES": 539
+        },
+        {
+            "TITLE": "Vintage Camera VIP",
+            "THEME": "VIP promotional",
+            "NUMBER": "6392343",
+            "BUILT": true,
+            "PIECES": 179
+        },
+        {
+            "TITLE": "St. Berbard",
+            "THEME": "brickheadz pets",
+            "NUMBER": "40543",
+            "BUILT": false,
+            "PIECES": 236
+        },
+        {
+            "TITLE": "BYGGLEK",
+            "THEME": "ikea",
+            "NUMBER": "40357",
+            "BUILT": false,
+            "PIECES": 201
+        },
+        {
+            "TITLE": "Bowser Jr.'s Clown Car Expansion Set",
+            "THEME": "mario",
+            "NUMBER": "71396",
+            "BUILT": false,
+            "PIECES": 84
+        },
+        {
+            "TITLE": "Year of the Tiger",
+            "THEME": "promotional",
+            "NUMBER": "40491",
+            "BUILT": false,
+            "PIECES": 193
+        },
+        {
+            "TITLE": "Valentine Lovebirds",
+            "THEME": "lego",
+            "NUMBER": "40522",
+            "BUILT": false,
+            "PIECES": 298
+        },
+        {
+            "TITLE": "Majestic Tiger",
+            "THEME": "creator",
+            "NUMBER": "31129",
+            "BUILT": false,
+            "PIECES": 755
         }
       ]
     }
