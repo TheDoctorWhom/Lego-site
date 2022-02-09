@@ -1450,6 +1450,41 @@
             "NUMBER": "31129",
             "BUILT": false,
             "PIECES": 755
+        },
+        {
+            "TITLE": "German Sheperd",
+            "THEME": "creator",
+            "NUMBER": "30578",
+            "BUILT": false,
+            "PIECES": 76
+        },
+        {
+            "TITLE": "Lion Dance Guy",
+            "THEME": "brickheadz",
+            "NUMBER": "40540",
+            "BUILT": false,
+            "PIECES": 239
+        },
+        {
+            "TITLE": "Sunflowers",
+            "THEME": "lego",
+            "NUMBER": "40524",
+            "BUILT": false,
+            "PIECES": 191
+        },
+        {
+            "TITLE": "French Bulldog",
+            "THEME": "brickheadz pets",
+            "NUMBER": "40544",
+            "BUILT": false,
+            "PIECES": 237
+        },
+        {
+            "TITLE": "Ahsoka Tano",
+            "THEME": "brickheadz starwars",
+            "NUMBER": "40539",
+            "BUILT": false,
+            "PIECES": 164
         }
       ]
     }
