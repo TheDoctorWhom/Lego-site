@@ -1483,8 +1483,15 @@
             "TITLE": "Ahsoka Tano",
             "THEME": "brickheadz starwars",
             "NUMBER": "40539",
-            "BUILT": false,
+            "BUILT": true,
             "PIECES": 164
+        },
+        {
+            "TITLE": "Mario’s House & Yoshi Expansion Set",
+            "THEME": "mario",
+            "NUMBER": "71367",
+            "BUILT": false,
+            "PIECES": 205
         }
       ]
     }
