@@ -1492,6 +1492,20 @@
             "NUMBER": "71367",
             "BUILT": false,
             "PIECES": 205
+        },
+        {
+            "TITLE": "Buzz Lightyear",
+            "THEME": "toystory disney",
+            "NUMBER": "40552",
+            "BUILT": false,
+            "PIECES": 114
+        },
+        {
+            "TITLE": "Raod Runner and Wile E. Coyote",
+            "THEME": "looneytunes",
+            "NUMBER": "40559",
+            "BUILT": false,
+            "PIECES": 205
         }
       ]
     }

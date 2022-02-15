@@ -35,10 +35,10 @@ const Chart = ({ videos , term }) => {
 
     //Make labels from themes of object
     // console.log(videos)
-    const themes = new Set(videos.flatMap((videos) => {
-        return (videos.THEME.toString().toLowerCase().split(' '))
+    let themes = new Set(videos.flatMap((videos, term) => {
+        return (videos.THEME.toString().toLowerCase().split(' '));
     }));
-    // console.log(Array.from(themes));
+
     data.labels = Array.from(themes);
 
     //Count the number of each theme
