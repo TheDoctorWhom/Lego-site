@@ -1497,7 +1497,7 @@
             "TITLE": "Buzz Lightyear",
             "THEME": "toystory disney",
             "NUMBER": "40552",
-            "BUILT": false,
+            "BUILT": true,
             "PIECES": 114
         },
         {
