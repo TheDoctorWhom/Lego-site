@@ -1495,17 +1495,31 @@
         },
         {
             "TITLE": "Buzz Lightyear",
-            "THEME": "toystory disney",
+            "THEME": "toystory disney brickheadz",
             "NUMBER": "40552",
             "BUILT": true,
             "PIECES": 114
         },
         {
             "TITLE": "Raod Runner and Wile E. Coyote",
-            "THEME": "looneytunes",
+            "THEME": "brickheadz looneytunes",
             "NUMBER": "40559",
-            "BUILT": false,
+            "BUILT": true,
             "PIECES": 205
+        },
+        {
+            "TITLE": "Woody and Bo Peep",
+            "THEME": "toystory disney brickheadz",
+            "NUMBER": "40553",
+            "BUILT": false,
+            "PIECES": 296
+        },
+        {
+            "TITLE": "Demogorgon & Eleven",
+            "THEME": "strangerthings brickheadz",
+            "NUMBER": "40549",
+            "BUILT": false,
+            "PIECES": 192
         }
       ]
     }
