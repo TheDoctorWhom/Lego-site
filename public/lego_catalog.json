@@ -1532,7 +1532,7 @@
             "TITLE": "Spice Girls Tribute",
             "THEME": "brickheadz",
             "NUMBER": "40548",
-            "BUILT": false,
+            "BUILT": true,
             "PIECES": 578
         }
       ]
