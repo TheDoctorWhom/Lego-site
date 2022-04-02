@@ -1534,6 +1534,34 @@
             "NUMBER": "40548",
             "BUILT": true,
             "PIECES": 578
+        },
+        {
+            "TITLE": "Chip & Dale",
+            "THEME": "brickheadz",
+            "NUMBER": "40550",
+            "BUILT": false,
+            "PIECES": 226
+        },
+        {
+            "TITLE": "The Mandalorian™ Helmet",
+            "THEME": "starwars",
+            "NUMBER": "75328",
+            "BUILT": false,
+            "PIECES": 584
+        },
+        {
+            "TITLE": "Easter Bunny",
+            "THEME": "creator promotional",
+            "NUMBER": "30583",
+            "BUILT": false,
+            "PIECES": 75
+        },
+        {
+            "TITLE": "Easter Chicks",
+            "THEME": "lego promotional",
+            "NUMBER": "40527",
+            "BUILT": false,
+            "PIECES": 318
         }
       ]
     }
