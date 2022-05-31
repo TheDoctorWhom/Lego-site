@@ -1329,7 +1329,7 @@
             "TITLE": "Holiday Camper Van",
             "THEME": "city",
             "NUMBER": "60283",
-            "BUILT": false,
+            "BUILT": true,
             "PIECES": 190
         },
         {
@@ -1469,7 +1469,7 @@
             "TITLE": "Sunflowers",
             "THEME": "lego",
             "NUMBER": "40524",
-            "BUILT": false,
+            "BUILT": true,
             "PIECES": 191
         },
         {
@@ -1562,6 +1562,27 @@
             "NUMBER": "40527",
             "BUILT": false,
             "PIECES": 318
+        },
+        {
+            "TITLE": "Orchid",
+            "THEME": "creator",
+            "NUMBER": "10311",
+            "BUILT": true,
+            "PIECES": 608
+        },
+        {
+            "TITLE": "Succulents",
+            "THEME": "creator",
+            "NUMBER": "10309",
+            "BUILT": true,
+            "PIECES": 771
+        },
+        {
+            "TITLE": "Dolphin and Turtle",
+            "THEME": "creator",
+            "NUMBER": "31128",
+            "BUILT": true,
+            "PIECES": 137
         }
       ]
     }
