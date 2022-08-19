@@ -1413,7 +1413,7 @@
             "TITLE": "St. Berbard",
             "THEME": "brickheadz pets",
             "NUMBER": "40543",
-            "BUILT": false,
+            "BUILT": true,
             "PIECES": 236
         },
         {
@@ -1476,7 +1476,7 @@
             "TITLE": "French Bulldog",
             "THEME": "brickheadz pets",
             "NUMBER": "40544",
-            "BUILT": false,
+            "BUILT": true,
             "PIECES": 237
         },
         {
@@ -1511,14 +1511,14 @@
             "TITLE": "Woody and Bo Peep",
             "THEME": "toystory disney brickheadz",
             "NUMBER": "40553",
-            "BUILT": false,
+            "BUILT": true,
             "PIECES": 296
         },
         {
             "TITLE": "Demogorgon & Eleven",
             "THEME": "strangerthings brickheadz",
             "NUMBER": "40549",
-            "BUILT": false,
+            "BUILT": true,
             "PIECES": 192
         },
         {
@@ -1539,7 +1539,7 @@
             "TITLE": "Chip & Dale",
             "THEME": "brickheadz",
             "NUMBER": "40550",
-            "BUILT": false,
+            "BUILT": true,
             "PIECES": 226
         },
         {
@@ -1583,6 +1583,41 @@
             "NUMBER": "31128",
             "BUILT": true,
             "PIECES": 137
+        },
+        {
+            "TITLE": "I am Groot",
+            "THEME": "marvel",
+            "NUMBER": "76217",
+            "BUILT": true,
+            "PIECES": 476
+        },
+        {
+            "TITLE": "Jazz Quartet",
+            "THEME": "ideas",
+            "NUMBER": "21334",
+            "BUILT": false,
+            "PIECES": 1606
+        },
+        {
+            "TITLE": "T. rex Breakout",
+            "THEME": "jurassicpark",
+            "NUMBER": "76956",
+            "BUILT": false,
+            "PIECES": 1212
+        },
+        {
+            "TITLE": "LEGO® Children’s Amusement Park",
+            "THEME": "lego",
+            "NUMBER": "40529",
+            "BUILT": false,
+            "PIECES": 170
+        },
+        {
+            "TITLE": "Cosmic Cardboard Adventures",
+            "THEME": "ideas",
+            "NUMBER": "40533",
+            "BUILT": false,
+            "PIECES": 203
         }
       ]
     }
