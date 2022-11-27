@@ -1632,6 +1632,48 @@
             "NUMBER": "21333",
             "BUILT": false,
             "PIECES": 2316
+        },
+        {
+            "TITLE": "Halloween Cat & Mouse",
+            "THEME": "lego",
+            "NUMBER": "40570",
+            "BUILT": false,
+            "PIECES": 328
+        },
+        {
+            "TITLE": "Koi Fish",
+            "THEME": "Brickheadz",
+            "NUMBER": "40545",
+            "BUILT": false,
+            "PIECES": 203
+        },
+        {
+            "TITLE": "Birthday Bear",
+            "THEME": "creator",
+            "NUMBER": "30582",
+            "BUILT": false,
+            "PIECES": 80
+        },
+        {
+            "TITLE": "Poodle",
+            "THEME": "Brickheadz",
+            "NUMBER": "40546",
+            "BUILT": false,
+            "PIECES": 304
+        },
+        {
+            "TITLE": "Goomba's Shoe",
+            "THEME": "mario",
+            "NUMBER": "71404",
+            "BUILT": false,
+            "PIECES": 76
+        },
+        {
+            "TITLE": "Zurg Battle",
+            "THEME": "disney",
+            "NUMBER": "76831",
+            "BUILT": false,
+            "PIECES": 261
         }
       ]
     }
